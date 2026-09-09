@@ -1,2 +1,3 @@
 # knight_without_a_name
-A Python final project for my first-year University of Applied Sciences studies.
+Final project for University of Applied Sciences studies Python course. A text-based game.
+
